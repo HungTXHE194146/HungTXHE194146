@@ -10,3 +10,6 @@
 HungTXHE194146/HungTXHE194146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@JustHung/30-nites-of-code)  
+  ![@JustHung #30NitesOfCode](https://www.codedex.io/api/petStatus?user=JustHung)
